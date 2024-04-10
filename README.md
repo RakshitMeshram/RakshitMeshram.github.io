@@ -1,4 +1,4 @@
-This repository serves as a [personal website](https://rakshitmeshram.github.io) template
+This repository serves as a [personal website](#) template
 ## Getting Started
 
 First, run the development server:
